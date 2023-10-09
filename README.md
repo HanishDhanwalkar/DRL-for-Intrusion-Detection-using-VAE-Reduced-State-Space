@@ -14,6 +14,7 @@
 ## Papers:
  
 </br>
+
 <a name="tasks"></a>
 ## Tasks to be done:
 1. Implement the VAE for feature extraction, training it on the dataset.
