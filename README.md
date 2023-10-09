@@ -1,0 +1,2 @@
+# DRL-for-Intrusion-Detection-using-VAE-Reduced-State-Space
+ Implement a VAE to learn a reduced state space representation from the NSL-KDD dataset, capturing essential features of normal network traffic.  Develop an RL agent that operates within the reduced state space. The RL agent's primary objective is to make adaptive decisions for intrusion detection, minimizing false positives and false negatives.
