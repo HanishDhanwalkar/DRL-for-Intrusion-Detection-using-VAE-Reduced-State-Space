@@ -12,7 +12,8 @@
 
 <a name="papers"></a>
 ## Papers:
-To be added
+1. Application of deep reinforcement learning to intrusion detection for supervised problems by Manuel Lopez-Martin∗, Belen Carro, Antonio Sanchez-Esguevillas
+2. Adversarial environment reinforcement learning algorithm for intrusion detection by Guillermo Caminero, Manuel Lopez-Martin, Belen Carro
  
 </br>
 
