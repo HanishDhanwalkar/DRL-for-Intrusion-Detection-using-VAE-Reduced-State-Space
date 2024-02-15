@@ -18,15 +18,20 @@
 </br>
 
 <a name="tasks"></a>
-## Tasks to be done:
+## Tasks done:
 1. Implement the VAE for feature extraction, training it on the dataset.
 2. Create a reduced state space using the VAE's latent representations.
 3. Prepare the data for RL training, including defining states, actions, and rewards.
 4. Implement the RL agent with the reduced state space.
 5. Design the RL agent's action space, rewards, and episode setup.
 6. Train the RL agent using the NSL-KDD dataset.
-7. Evaluate the RL agent's performance using various metrics (e.g., detection rate, false positive rate).
-8. Fine-tune hyperparameters for both the VAE and RL components based on evaluation results.
-9. Consider using cross-validation to assess the model's generalization.
+
+<a name="tasks-to-do"></a>
+## Tasks to be done:
+1. Evaluate the RL agent's performance using various metrics (e.g., detection rate, false positive rate).
+2. Fine-tune hyperparameters for both the VAE and RL components based on evaluation results.
+3. Consider using cross-validation to assess the model's generalization.
+
+
 
 
